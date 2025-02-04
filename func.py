@@ -31,3 +31,5 @@ def remover_livro(livros, titulo):
         print(f"Livro '{titulo}' removido com sucesso!")
     else:
         print(f"Livro '{titulo}' não encontrado.")
+
+#Escolha
