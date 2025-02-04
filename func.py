@@ -33,3 +33,4 @@ def remover_livro(livros, titulo):
         print(f"Livro '{titulo}' não encontrado.")
 
 #Escolha
+#oi
